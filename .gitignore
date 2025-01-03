@@ -1,0 +1,11 @@
+node_modules
+android/build
+android/app/build
+android/local.properties
+ios/build
+ios/Pods
+.xcode.env.local
+/android/.gradle
+.idea
+.cxx
+vendor/bundle
